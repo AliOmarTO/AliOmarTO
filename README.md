@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Ali Omar 👋
+💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🛠 Problem Solver
+📍 Based in  🇨🇦 Toronto
+🎓 Computer Programming & Analysis @ Seneca College
+🧠 Always learning something new!
 
 <!--
 **AliOmarTO/AliOmarTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧰 Tech Stack:
+
+    ⚛️ React | 🧪 TypeScript | ⚡ Next.js | 🌐 HTML/CSS
+
+    🐍 Python | 🟫 Node.js | 🚀 Express
+
+    🗄️ PostgreSQL | 🧾 SQL | 📦 DynamoDB
+
+    🐳 Docker | 🔁 CI/CD | ☁️ AWS (ECS, S3, API Gateway, Lambda)
+
+🛠 Recent Projects:
+
+    📸 Image Hosting App with Cloudflare R2 + Next.js
+
+    🔐 Secure C#/ASP.NET government portal (🏛️ OPS Co-op)
+
+    📊 Full-stack dashboard using React, GraphQL, and PostgreSQL
+
+    🤖 AI Chatbot UI with OpenAI & Tailwind
