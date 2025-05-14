@@ -43,6 +43,4 @@ Here are some ideas to get you started:
 
     ✉️ aliomar02.to@gmail.com
 
-    🔗 LinkedIn
-
-    🌐 Portfolio (if you have one)
+    🔗 LinkedIn https://www.linkedin.com/in/ali-omar-to/
