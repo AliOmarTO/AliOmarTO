@@ -38,3 +38,11 @@ Here are some ideas to get you started:
     📊 Full-stack dashboard using React, GraphQL, and PostgreSQL
 
     🤖 AI Chatbot UI with OpenAI & Tailwind
+
+💬 Let's Connect!
+
+    ✉️ aliomar02.to@gmail.com
+
+    🔗 LinkedIn
+
+    🌐 Portfolio (if you have one)
