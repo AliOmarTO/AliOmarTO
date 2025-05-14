@@ -2,7 +2,6 @@
 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🛠 Problem Solver
 📍 Based in  🇨🇦 Toronto
 🎓 Computer Programming & Analysis @ Seneca College
-🧠 Always learning something new!
 
 <!--
 **AliOmarTO/AliOmarTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
