@@ -1,4 +1,4 @@
-## Hi there! I'm Ali Omar 👋
+# Hi there! I'm Ali Omar 👋
 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🛠 Problem Solver
 📍 Based in  🇨🇦 Toronto
 🎓 Computer Programming & Analysis @ Seneca College
@@ -18,25 +18,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧰 Tech Stack:
+## 🧰 Tech Stack:
 
-    ⚛️ React | 🧪 TypeScript | ⚡ Next.js | 🌐 HTML/CSS
+⚛️ React | 🧪 TypeScript | ⚡ Next.js | 🌐 HTML/CSS
 
-    🐍 Python | 🟫 Node.js | 🚀 Express
+🐍 Python | 🟫 Node.js | 🚀 Express
 
-    🗄️ PostgreSQL | 🧾 SQL | 📦 DynamoDB
+🗄️ PostgreSQL | 🧾 SQL | 📦 DynamoDB
 
-    🐳 Docker | 🔁 CI/CD | ☁️ AWS (ECS, S3, API Gateway, Lambda)
+🐳 Docker | 🔁 CI/CD | ☁️ AWS (ECS, S3, API Gateway, Lambda)
 
 🛠 Recent Projects:
 
-    📸 Image Hosting App with Cloudflare R2 + Next.js
+- 📸 Image Hosting App with Cloudflare R2 + Next.js
 
-    🔐 Secure C#/ASP.NET government portal (🏛️ OPS Co-op)
+- 🔐 Secure C#/ASP.NET government portal (🏛️ OPS Co-op)
 
-    📊 Full-stack dashboard using React, GraphQL, and PostgreSQL
+- 📊 Full-stack dashboard using React, GraphQL, and PostgreSQL
 
-    🤖 AI Chatbot UI with OpenAI & Tailwind
+- 🤖 AI Chatbot UI with OpenAI & Tailwind
 
 💬 Let's Connect!
 
